@@ -1,4 +1,6 @@
 ---
+- id: Publications
+  translation: Publications
 - id: blogTitle
   translation: Latest news
 - id: readMore
