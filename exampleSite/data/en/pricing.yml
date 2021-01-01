@@ -1,64 +1,58 @@
-##################################### pricing ##############################
+---
 pricing:
-  enable : true
-  title : Our Plans
-  pricing_table :
-    # pricing table loop
-    - name : Free
-      price : $99
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
-      
-    # pricing table loop
-    - name : Silver
-      price : $149
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
-        
-    # pricing table loop
-    - name : Gold
-      price : $199
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
-        
-    # pricing table loop
-    - name : Platinum
-      price : $299
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
+  enable: true
+  title: Our Services
+  pricing_table:
+  - name: Primary Data Analysis
+    price: "$99"
+    unit: "/dim(1*100*100)-Data Dimension"
+    services:
+    - html Result Report
+    - png figures
+    - Data interpretation
+    - 1 GB Result Storage
+    - 30 Day Data Archive
+    - 24/7 Tech Support
+    - 30 Day Warranty
+    button:
+      label: Signup
+      link: "#https://ai-genomics.business.site/?utm_source=gmb&utm_medium=referral "
+  - name: Pattern Embed Visualization
+    price: "$149"
+    unit: "/dim(1*100*100)-Data Dimension"
+    services:
+    - 1GB Disk Space
+    - 10 Email Account
+    - Script Installer
+    - 1 GB Storage
+    - 10 GB Bandwidth
+    - 24/7 Tech Support
+    button:
+      label: Signup
+      link: "#"
+  - name: Gold
+    price: "$199"
+    unit: month
+    services:
+    - 1GB Disk Space
+    - 10 Email Account
+    - Script Installer
+    - 1 GB Storage
+    - 10 GB Bandwidth
+    - 24/7 Tech Support
+    button:
+      label: Signup
+      link: "#"
+  - name: Platinum
+    price: "$299"
+    unit: month
+    services:
+    - 1GB Disk Space
+    - 10 Email Account
+    - Script Installer
+    - 1 GB Storage
+    - 10 GB Bandwidth
+    - 24/7 Tech Support
+    button:
+      label: Signup
+      link: "#"

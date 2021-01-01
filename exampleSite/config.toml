@@ -1,63 +1,63 @@
-baseURL = "https://st-mary-ai-institute.com"
-disableLanguages = []
+baseURL = "https://St-Mary-AI-Institute.com"
+disableLanguages = ["Fr", "EN", "CH"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
-title = "St Mary AI Institute"
+title = "AI Genomics"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 Designed by St Mary AI Institute & Developed by [AI Genomics](https://ai-genomics.business.site/?utm_source=gmb&utm_medium=referral)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "about"
+name = "About us"
 pre = "#"
-url = "about"
-weight = 1
+url = "About us"
+weight = "5"
 [[Languages.en.menu.main]]
-name = "services"
+name = "Our services"
 pre = "#"
-url = "services"
-weight = 2
+url = "Our services"
+weight = "5"
 [[Languages.en.menu.main]]
-name = "portfolio"
+name = "Our products"
 pre = "#"
-url = "portfolio"
-weight = 3
+url = "Our products"
+weight = "5"
 [[Languages.en.menu.main]]
-name = "team"
+name = "Our team"
 pre = "#"
-url = "team"
-weight = 4
+url = "Our team"
+weight = "5"
 [[Languages.en.menu.main]]
-name = "pricing"
+name = "Pricing & Quotation"
 pre = "#"
-url = "pricing"
+url = "Pricing & Quotation"
 weight = 5
 [[Languages.en.menu.main]]
-name = "blog"
+name = "News"
 pre = "#"
-url = "blog"
+url = "news"
 weight = 6
 [[Languages.en.menu.main]]
-name = "contact"
+name = "Contact us"
 pre = "#"
-url = "contact"
-weight = 7
+url = "Contact us"
+weight = "7"
 [[Languages.en.menu.main]]
-name = "themefisher"
+name = "AI Genomics"
 pre = ""
-url = "https://themefisher.com/"
+url = "https://ai-genomics.business.site/?utm_source=gmb&utm_medium=referral"
 weight = 8
 [Languages.fr]
-contentDir = "content/french"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+contentDir = "content/fr"
+copyright = "Copyright &copy; 2020 Designed by St Mary AI Institute & Developed by [AI Genomics](https://ai-genomics.business.site/?utm_source=gmb&utm_medium=referral)"
 home = "Accueil"
-languageCode = "fr-fr"
+languageCode = "fr=fr"
 languageName = "Fr"
 weight = 2
 [[Languages.fr.menu.main]]
@@ -86,9 +86,9 @@ pre = "#"
 url = "pricing"
 weight = 5
 [[Languages.fr.menu.main]]
-name = "blog"
+name = "News"
 pre = "#"
-url = "blog"
+url = "news"
 weight = 6
 [[Languages.fr.menu.main]]
 name = "contact"
@@ -96,13 +96,13 @@ pre = "#"
 url = "contact"
 weight = 7
 [[Languages.fr.menu.main]]
-name = "themefisher"
+name = "AI Genomics"
 pre = ""
-url = "https://themefisher.com/"
+url = "https://ai-genomics.business.site/?utm_source=gmb&utm_medium=referral"
 weight = 8
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = "Mary"
+description = "St Mary AI Institute"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
@@ -111,9 +111,9 @@ enable = false
 expire_days = 2
 [params.map]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+gmap_api = "https://maps.googleapis.com/maps/api/geocode/json?address=1600+Amphitheatre+Parkway,+Mountain+View,+CA&key=AIzaSyC8-2RiZndGql6T9KQrmraDljiLWWlvDZs"
+map_latitude = "56.32849445490889"
+map_longitude = "-2.8046400390192625"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"

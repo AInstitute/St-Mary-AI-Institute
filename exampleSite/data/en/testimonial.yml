@@ -1,26 +1,27 @@
-################################# Testimonial #########################
+---
 testimonial:
-  enable : true
-  bg_image : images/backgrounds/bg-testimonial.jpg
-  bg_image_webp : images/backgrounds/bg-testimonial.webp
-  testimonial_item :
-    # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
-    # testimonial item loop
-    - name : Mark Dinn
-      image : images/client/client-2.jpg
-      image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
-    # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+  enable: true
+  bg_image: images/backgrounds/bg-testimonial.jpg
+  bg_image_webp: images/backgrounds/bg-testimonial.webp
+  testimonial_item:
+  - name: Md. Ali
+    image: images/client/client-2.jpg
+    image_webp: images/client/client-2.webp
+    date: Nov 12, 2020
+    content: This is an amazing AI company for solving your biological and evolutionary
+      research problems. The state-of-the-art ideas with the latest algorithms published
+      at the top journals. They are definitely the best choice for your problems.
+  - name: jonathan louis
+    image: images/client/client-1.jpg
+    image_webp: images/client/client-1.webp
+    date: Oct 21, 2020
+    content: This is an incredible high-tech company. They are are good at math, statistics
+      inference and applications in biochemistry problems.  The targeted bio-medicine
+      prediction makes my research boosting !
+  - name: Kathy Zhang
+    image: images/client/client3.jpg
+    image_webp: images/client/client3.webp
+    date: Dec 26, 2018
+    content: 'I totally appreciate the AI solution for my Eco-ecolomic design. They
+      provide nice, kind and instant services for my request. I am pretty satisfied
+      with them and they are highly recommended. '
