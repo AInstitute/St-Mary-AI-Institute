@@ -3,6 +3,12 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: Maria Laurence
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: James Newland
     image_webp: images/team/team-6.webp
     image: images/team/team-6.webp
