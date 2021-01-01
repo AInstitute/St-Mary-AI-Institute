@@ -42,8 +42,11 @@ team:
     image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
     designation: AI engineer
-    content: I am the AI engineer in St Mary AI institute. I obtained my PhD from
-      UCL focusing on machine learning and deep learning.
+    content: 'I am the AI engineer in St Mary AI institute. I obtained my PhD from
+      UCL focusing on machine learning and deep learning. I have 10 years experience
+      in artificial intelligence. I have applied AI algorithm to the one of the most
+      prosperous area: autopilot. In St Mary, I offer my best AI solution for space
+      ship.'
     social:
     - icon: ti-facebook
       link: "#"
