@@ -1,6 +1,4 @@
 ---
-- id: Publications
-  translation: Publications
 - id: blogTitle
   translation: Latest news
 - id: readMore
@@ -23,6 +21,8 @@
   translation: Our products
 - id: Our team
   translation: Our Team
+- id: Publications
+  translation: Publications
 - id: Pricing & Quotation
   translation: Pricing & Quotation
 - id: News
