@@ -1,5 +1,5 @@
 baseURL = "https://St-Mary-AI-Institute.com"
-disableLanguages = ["Fr", "EN", "CH"]
+disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -14,51 +14,51 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "About us"
+name = "about"
 pre = "#"
-url = "About us"
-weight = "5"
+url = "about"
+weight = 1
 [[Languages.en.menu.main]]
-name = "Our services"
+name = "services"
 pre = "#"
-url = "Our services"
-weight = "5"
+url = "services"
+weight = 2
 [[Languages.en.menu.main]]
-name = "Our products"
+name = "portfolio"
 pre = "#"
-url = "Our products"
-weight = "5"
+url = "portfolio"
+weight = 3
 [[Languages.en.menu.main]]
-name = "Our team"
+name = "team"
 pre = "#"
-url = "Our team"
-weight = "5"
+url = "team"
+weight = 4
 [[Languages.en.menu.main]]
-name = "Pricing & Quotation"
+name = "pricing"
 pre = "#"
-url = "Pricing & Quotation"
+url = "pricing"
 weight = 5
 [[Languages.en.menu.main]]
-name = "News"
+name = "blog"
 pre = "#"
-url = "news"
+url = "blog"
 weight = 6
 [[Languages.en.menu.main]]
-name = "Contact us"
+name = "contact"
 pre = "#"
-url = "Contact us"
-weight = "7"
+url = "contact"
+weight = 7
 [[Languages.en.menu.main]]
-name = "AI Genomics"
+name = "themefisher"
 pre = ""
-url = "https://ai-genomics.business.site/?utm_source=gmb&utm_medium=referral"
+url = "https://themefisher.com/"
 weight = 8
 [Languages.fr]
-contentDir = "content/fr"
+contentDir = "content/chinese"
 copyright = "Copyright &copy; 2020 Designed by St Mary AI Institute & Developed by [AI Genomics](https://ai-genomics.business.site/?utm_source=gmb&utm_medium=referral)"
 home = "Accueil"
-languageCode = "fr=fr"
-languageName = "Fr"
+languageCode = "ch-ch"
+languageName = "CH"
 weight = 2
 [[Languages.fr.menu.main]]
 name = "sur"
@@ -86,9 +86,9 @@ pre = "#"
 url = "pricing"
 weight = 5
 [[Languages.fr.menu.main]]
-name = "News"
+name = "blog"
 pre = "#"
-url = "news"
+url = "blog"
 weight = 6
 [[Languages.fr.menu.main]]
 name = "contact"
@@ -96,9 +96,9 @@ pre = "#"
 url = "contact"
 weight = 7
 [[Languages.fr.menu.main]]
-name = "AI Genomics"
+name = "themefisher"
 pre = ""
-url = "https://ai-genomics.business.site/?utm_source=gmb&utm_medium=referral"
+url = "https://themefisher.com/"
 weight = 8
 [params]
 author = "Mary"
@@ -111,7 +111,7 @@ enable = false
 expire_days = 2
 [params.map]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/geocode/json?address=1600+Amphitheatre+Parkway,+Mountain+View,+CA&key=AIzaSyC8-2RiZndGql6T9KQrmraDljiLWWlvDZs"
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "56.32849445490889"
 map_longitude = "-2.8046400390192625"
 map_marker = "images/marker.png"
