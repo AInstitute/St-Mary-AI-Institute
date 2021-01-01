@@ -1,14 +1,14 @@
-baseURL = "https://St-Mary-AI-Institute.com"
+baseURL = "https://st-mary-ai-institute.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
-title = "AI Genomics"
+title = "St Mary AI Institute"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by St Mary AI Institute & Developed by [AI Genomics](https://ai-genomics.business.site/?utm_source=gmb&utm_medium=referral)"
+copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -54,11 +54,11 @@ pre = ""
 url = "https://themefisher.com/"
 weight = 8
 [Languages.fr]
-contentDir = "content/chinese"
-copyright = "Copyright &copy; 2020 Designed by St Mary AI Institute & Developed by [AI Genomics](https://ai-genomics.business.site/?utm_source=gmb&utm_medium=referral)"
+contentDir = "content/french"
+copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Accueil"
-languageCode = "ch-ch"
-languageName = "CH"
+languageCode = "fr-fr"
+languageName = "Fr"
 weight = 2
 [[Languages.fr.menu.main]]
 name = "sur"
@@ -101,8 +101,8 @@ pre = ""
 url = "https://themefisher.com/"
 weight = 8
 [params]
-author = "Mary"
-description = "St Mary AI Institute"
+author = "Themefisher"
+description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
@@ -112,8 +112,8 @@ expire_days = 2
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "56.32849445490889"
-map_longitude = "-2.8046400390192625"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
