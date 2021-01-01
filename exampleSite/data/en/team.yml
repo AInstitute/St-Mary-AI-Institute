@@ -3,6 +3,12 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: James Newland
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: Xinghu Qin
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
