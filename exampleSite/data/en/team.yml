@@ -20,15 +20,6 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Jack Newland
-    image_webp: images/team/team-5.webp
-    image: images/team/team-5.webp
-    designation: Financial manager
-    content: 'I am the financial manager in AInstitute. I have 5 years''s experience
-      for dealing with corporate reorganization. I earned my PhD from Boston Univ. '
-    social:
-    - icon: ''
-      link: ''
   - name: Erwin Linnaeus
     image_webp: images/team/team-2.webp
     image: images/team/team-2.jpg
@@ -80,3 +71,12 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
+  - name: Jack Newland
+    image_webp: images/team/team-5.webp
+    image: images/team/team-5.webp
+    designation: Financial manager
+    content: 'I am the financial manager in AInstitute. I have 5 years''s experience
+      for dealing with corporate reorganization. I earned my PhD from Boston Univ. '
+    social:
+    - icon: ''
+      link: ''
