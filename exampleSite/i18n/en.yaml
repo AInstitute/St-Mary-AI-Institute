@@ -13,10 +13,10 @@
   translation: Author's posts
 - id: all
   translation: All
-- id: About Us
+- id: About us
   translation: About Us
 - id: Our services
-  translation: Our service
+  translation: Our services
 - id: portfolio
   translation: Portfolio
 - id: team
