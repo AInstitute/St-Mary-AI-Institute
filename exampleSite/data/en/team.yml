@@ -97,4 +97,6 @@ team:
     designation: Director of AI for Biochemistry
     content: I am an biochemist in medicine discovery. I was an lecturer from Jinan
       Union focusing on discovering target for breast cancer.
-    social: ''
+    social:
+    - icon: ti-twitter-alt
+      link: "#"
