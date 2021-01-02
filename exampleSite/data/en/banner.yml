@@ -5,9 +5,11 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: Experience the High-tech AI for Your Probelms
-  content: 'We are the top-choice AI company providing AI solutions for almost any
+  content: We are the top-choice AI company providing AI solutions for almost any
     problems. We own the state-of-the-art machine learning frameworks and platforms
-    with high performance and efficiency.  '
+    with high performance and efficiency. In biology, our methods and frameworks have
+    been applied to genomics for detecting natural selection, predicting the geographic
+    origin of individuals, disease related genes.
   button:
     enable: true
     label: Explore Us
