@@ -18,10 +18,11 @@ service:
     content: We use the latest machine learning methods to learn the hidden patterns
       in your data. We provide visualization of big data having millions of samples
       or features.
-  - name: Graphic Design
+  - name: Biochemstry Driven Machine Learning Design
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: The solution requires domain knowledge in molecular biology, immunology,
+      bioinformatics and computational theory, as well as comprehensive ability in
+      algorithm design, software development, biomedicine and other technical fields
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
