@@ -72,11 +72,11 @@ pricing:
     price: "$2999"
     unit: Based on data type and problems
     services:
-    - 20GB Disk Space
     - 'AI Model Choice and Construction '
     - Script and Package
+    - Hyper-parameter Tuning *100
+    - 20GB Disk Space
     - 30 Day Storage
-    - 10 GB Bandwidth
     - 24/7 Tech Support
     button:
       label: Signup
