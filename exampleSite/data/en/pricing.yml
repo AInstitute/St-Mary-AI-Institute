@@ -87,6 +87,7 @@ pricing:
     unit: "/dim(1*1000*1000)-Data Dimension"
     services:
     - 'AI Model Choice and Construction '
+    - Model Tuning and Annotation
     - html results
     - png/pdf/tiff Figures
     - '30 Day15GB Data Storage '
