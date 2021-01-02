@@ -11,19 +11,19 @@ skill:
     problems.
   image: images/about/company-growth.webp
   skill_item:
-  - name: Decision Making
-    percent: "40"
+  - name: Machine Learning and Deep Learning in Genomics- AI Genomics
+    percent: 98%
+  - name: 'Pattern Embedding '
+    percent: 95%
   - name: 'Clustering '
     percent: 60%
-  - name: Machine Learning and Deep Learning in Genomics- AI Genomics
-    percent: 90%
   - name: Machine Learning Platform Construction (i.e., for New Drug Discovery)
     percent: 60%
   - name: Data Visualization (Biodiversity Modelling and Pattern Embedding)
     percent: 80%
-  - name: 'Pattern Embedding '
-    percent: 95%
   - name: Plant Disease & Pest Prediction and Forecast
     percent: 75%
+  - name: Decision Making
+    percent: "40"
   - name: 'Economic Modelling and Prediction '
     percent: 50%
