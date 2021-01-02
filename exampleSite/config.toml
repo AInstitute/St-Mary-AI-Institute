@@ -16,37 +16,37 @@ weight = 1
 [[Languages.en.menu.main]]
 name = "About"
 pre = "#"
-url = "About us"
-weight = 1
+url = "about"
+weight = 5
 [[Languages.en.menu.main]]
 name = "Services"
 pre = "#"
-url = "Services"
-weight = 2
+url = "services"
+weight = 5
 [[Languages.en.menu.main]]
-name = "portfolio"
+name = "Portfolio"
 pre = "#"
 url = "portfolio"
 weight = 3
 [[Languages.en.menu.main]]
 name = "Our team"
 pre = "#"
-url = "Our team"
+url = "team"
 weight = 4
 [[Languages.en.menu.main]]
 name = "Pricing & Quotation"
 pre = "#"
-url = "Pricing & Quotation"
+url = "pricing"
 weight = 5
 [[Languages.en.menu.main]]
 name = "News"
 pre = "#"
-url = "News"
+url = "blog"
 weight = 6
 [[Languages.en.menu.main]]
 name = "Contact us"
 pre = "#"
-url = "Contact us"
+url = "contact"
 weight = 7
 [[Languages.en.menu.main]]
 name = "AI Genomics"
@@ -63,12 +63,12 @@ weight = 2
 [[Languages.fr.menu.main]]
 name = "sur"
 pre = "#"
-url = "About us"
+url = "about"
 weight = 1
 [[Languages.fr.menu.main]]
 name = "un service"
 pre = "#"
-url = "Services"
+url = "services"
 weight = 2
 [[Languages.fr.menu.main]]
 name = "portefeuille"
@@ -78,22 +78,22 @@ weight = 3
 [[Languages.fr.menu.main]]
 name = "équipe"
 pre = "#"
-url = "Our team"
+url = "team"
 weight = 4
 [[Languages.fr.menu.main]]
 name = "tarification"
 pre = "#"
-url = "Pricing & Quotation"
+url = "pricing"
 weight = 5
 [[Languages.fr.menu.main]]
 name = "News"
 pre = "#"
-url = "News"
+url = "blog"
 weight = 6
 [[Languages.fr.menu.main]]
 name = "Contact us"
 pre = "#"
-url = "Contact us"
+url = "contact"
 weight = 7
 [[Languages.fr.menu.main]]
 name = "AI Genomics"
