@@ -32,7 +32,7 @@ pricing:
       link: "#"
   - name: DeepGenomeScan
     price: "$199"
-    unit: ''
+    unit: "/dim(1*1000*1000)-Data Dimension"
     services:
     - 1GB Disk Space
     - 10 Email Account
