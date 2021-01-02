@@ -1,6 +1,4 @@
 ---
-- id: themefisher
-  translation: Themefisher
 - id: blogTitle
   translation: Latest news
 - id: readMore
@@ -33,3 +31,5 @@
   translation: Contact us
 - id: AI Genomics
   translation: AI Genomics
+- id: themefisher
+  translation: Themefisher
