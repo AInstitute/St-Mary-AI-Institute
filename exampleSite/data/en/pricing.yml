@@ -3,6 +3,13 @@ pricing:
   enable: true
   title: Our Services
   pricing_table:
+  - name: 'Target Modelling and Predicting '
+    price: "699"
+    unit: "/dim(1*1000*1000)-Data Dimension"
+    services: ''
+    button:
+      label: Signup
+      link: "#"
   - name: Primary Data Analysis
     price: "$99"
     unit: "/dim(1*1000*1000)-Data Dimension"
