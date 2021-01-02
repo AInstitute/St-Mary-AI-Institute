@@ -10,13 +10,15 @@ feature:
     icon: ti-world
     content: We develop optimized, adaptive, portable AI architecture for problem
       solution.
+  - title: High Performance
+    icon: ti-stats-up
+    content: Our automatic machine learning model selection will choose the best and
+      the highest model architecture for your problem and design. Our model will have
+      the state-of-the-art performance with high accuracy.
   - title: Customized AI Model
     icon: ti-panel
     content: Our models and frameworks are highly customized for each study case.
       We endeavor to configure the best model for your question and data.
-  - title: High Performance
-    icon: ti-stats-up
-    content: 'Our '
   - title: Compatiable Framework
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
