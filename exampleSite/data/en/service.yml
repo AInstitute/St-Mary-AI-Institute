@@ -30,7 +30,8 @@ service:
       are complex and subtle. We use machine learning algorithms to learn the macro(micro)-ecological
       patterns and micro(macro)-evolutionary trajectories in order to better understand
       evolution.
-  - name: Networking
+  - name: Crop Health
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: We use machine learning approaches to model the best growing condition
+      for plants. We provide machine learning based pest monitor and forecast, plant
+      disease identification and pesticide/bio-pesticide evaluation.
