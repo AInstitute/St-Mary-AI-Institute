@@ -11,6 +11,8 @@ skill:
     problems.
   image: images/about/company-growth.webp
   skill_item:
+  - name: 'Clustering '
+    percent: 60%
   - name: Machine Learning and Deep Learning in Genomics- AI Genomics
     percent: 90%
   - name: Machine Learning Platform Construction (i.e., for New Drug Discovery)
