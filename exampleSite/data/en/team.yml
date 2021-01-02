@@ -80,8 +80,8 @@ team:
     social:
     - icon: ti-facebook
       link: "#"
-    - icon: ''
-      link: ''
+    - icon: ti-twitter-alt
+      link: "#"
   - name: James Newland
     image_webp: images/team/team-6.webp
     image: images/team/team-6.jpg
