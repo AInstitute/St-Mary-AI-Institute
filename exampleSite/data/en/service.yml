@@ -7,10 +7,10 @@ service:
     icon: ti-world
     content: 'We use deep learning to model the complex associations between genotypes
       &environment, genotypes & traits. '
-  - name: Responsive Design
+  - name: Drug target and marker prediction
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: We use machine learning algorithms to search for the most relevant genetic
+      markers and target and predict the most associated molecules for diseases.
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
