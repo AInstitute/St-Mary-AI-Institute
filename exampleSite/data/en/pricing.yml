@@ -90,8 +90,9 @@ pricing:
     - Model Tuning and Annotation
     - html results
     - png/pdf/tiff Figures
-    - '30 Day15GB Data Storage '
+    - '30 Day 15GB Data Storage '
     - 24/7 Tech Support
+    - 30 Day Model Reconstruction
     button:
       label: Signup
       link: "#"
