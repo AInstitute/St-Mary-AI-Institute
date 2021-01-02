@@ -11,10 +11,11 @@ service:
     icon: ti-layout
     content: We use machine learning algorithms to search for the most relevant genetic
       markers and target and predict the most associated molecules for diseases.
-  - name: Media &amp; Advertisement
+  - name: Hidden Pattern Embedding Visualization
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: We use the latest machine learning methods to dig the hidden patterns
+      in your data. We provide visualization of big data having millions of samples
+      or features.
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
