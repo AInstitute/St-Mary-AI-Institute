@@ -11,7 +11,7 @@ skill:
     problems.
   image: images/about/company-growth.webp
   skill_item:
-  - name: AI Genomics
+  - name: Machine learning and deep learning in genomics- AI Genomics
     percent: 90%
   - name: New Drug Discovery
     percent: 60%
