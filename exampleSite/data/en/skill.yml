@@ -24,6 +24,6 @@ skill:
   - name: 'Data Clustering '
     percent: 60%
   - name: Decision Making
-    percent: "40"
+    percent: 40%
   - name: 'Economic Modelling and Prediction '
     percent: 50%
