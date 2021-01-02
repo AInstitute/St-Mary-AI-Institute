@@ -3,20 +3,6 @@ pricing:
   enable: true
   title: Our Services
   pricing_table:
-  - name: GWAS
-    price: "299"
-    unit: "/dim(1*1000*1000)-Data Dimension"
-    services:
-    - Machine Learning Model Construction
-    - Methods Annotation
-    - png/pdf/tiff Figures
-    - html Results
-    - Hyper-parameter  Tuning *100
-    - 30 Day Data and Result Storage
-    - 24/7 Tech Support
-    button:
-      label: Signup
-      link: https://ai-genomics.business.site/?utm_source=gmb&utm_medium=referral
   - name: Primary Data Analysis
     price: "$99"
     unit: "/dim(1*1000*1000)-Data Dimension"
@@ -44,6 +30,20 @@ pricing:
     button:
       label: Signup
       link: "#"
+  - name: GWAS
+    price: "299"
+    unit: "/dim(1*1000*1000)-Data Dimension"
+    services:
+    - Machine Learning Model Construction
+    - Methods Annotation
+    - png/pdf/tiff Figures
+    - html Results
+    - Hyper-parameter  Tuning *100
+    - 30 Day Data and Result Storage
+    - 24/7 Tech Support
+    button:
+      label: Signup
+      link: https://ai-genomics.business.site/?utm_source=gmb&utm_medium=referral
   - name: Deep Pattern Learning
     price: "199"
     unit: "/dim(1*1000*1000)-Data Dimension"
@@ -69,7 +69,7 @@ pricing:
     button:
       label: Signup
       link: https://ai-genomics.business.site/?utm_source=gmb&utm_medium=referral
-  - name: AI Data-driven Research Design
+  - name: Data-driven AI Solution
     price: "$2999"
     unit: Based on data type and problems
     services:
