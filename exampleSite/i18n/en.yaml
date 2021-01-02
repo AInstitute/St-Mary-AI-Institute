@@ -1,4 +1,6 @@
 ---
+- id: themefisher
+  translation: Themefisher
 - id: blogTitle
   translation: Latest news
 - id: readMore
