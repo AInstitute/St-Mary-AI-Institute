@@ -3,6 +3,16 @@ pricing:
   enable: true
   title: Our Services
   pricing_table:
+  - name: Specie Identification and Diversity Pattern Learning
+    price: ''
+    unit: ''
+    services: ''
+    button: ''
+  - name: ''
+    price: ''
+    unit: ''
+    services: ''
+    button: ''
   - name: Primary Data Analysis
     price: "$99"
     unit: "/dim(1*1000*1000)-Data Dimension"
