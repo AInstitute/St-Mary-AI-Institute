@@ -3,20 +3,17 @@ pricing:
   enable: true
   title: Our Services
   pricing_table:
-  - name: Specie Identification and Diversity Pattern Learning
-    price: "199"
+  - name: GWAS
+    price: "299"
     unit: "/dim(1*1000*1000)-Data Dimension"
     services:
-    - Pattern Visualization
-    - '30 Day Data Storage '
-    - 'Methods and Script Annotation '
-    - Model Construction
-    button:
-      label: Signup
-  - name: ''
-    price: ''
-    unit: ''
-    services: ''
+    - 24/7 technique
+    - 30 Day Data and Result Storage
+    - Methods Annotation
+    - png/pdf/tiff Figures
+    - html Results
+    - Hyper-parameter  Tuning *100
+    - Machine Learning Model Construction
     button: ''
   - name: Primary Data Analysis
     price: "$99"
@@ -45,6 +42,16 @@ pricing:
     button:
       label: Signup
       link: "#"
+  - name: Specie Identification and Diversity Pattern Learning
+    price: "199"
+    unit: "/dim(1*1000*1000)-Data Dimension"
+    services:
+    - Pattern Visualization
+    - '30 Day Data Storage '
+    - 'Methods and Script Annotation '
+    - Model Construction
+    button:
+      label: Signup
   - name: DeepGenomeScan
     price: "$199"
     unit: "/dim(1*1000*1000)-Data Dimension"
