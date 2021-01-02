@@ -86,11 +86,11 @@ pricing:
     price: "$399"
     unit: "/dim(1*1000*1000)-Data Dimension"
     services:
-    - ''
-    - ''
-    - ''
-    - ''
-    - ''
+    - 'AI Model Choice and Construction '
+    - html results
+    - png/pdf/tiff Figures
+    - '30 Day15GB Data Storage '
+    - 24/7 Tech Support
     button:
       label: Signup
       link: "#"
