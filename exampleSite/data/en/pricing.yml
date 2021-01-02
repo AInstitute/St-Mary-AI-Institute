@@ -82,7 +82,7 @@ pricing:
     button:
       label: Signup
       link: "#"
-  - name: Decision Making
+  - name: AI Decision Making
     price: "399"
     unit: "/dim(1*1000*1000)-Data Dimension"
     services: ''
