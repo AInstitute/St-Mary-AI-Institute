@@ -19,7 +19,7 @@ pricing:
       link: "#https://ai-genomics.business.site/?utm_source=gmb&utm_medium=referral "
   - name: Pattern Embed Visualization
     price: "$149"
-    unit: "/dim(1*100*100)-Data Dimension"
+    unit: "/dim(1*1000*1000)-Data Dimension"
     services:
     - 1GB Disk Space
     - 10 Email Account
