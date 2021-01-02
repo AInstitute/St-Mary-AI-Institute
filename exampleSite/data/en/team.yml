@@ -7,10 +7,11 @@ team:
     image_webp: images/team/team-11-1.webp
     image: images/team/team-11-1.jpg
     designation: CEO/Founder
-    content: 'I earned my PhD degree in Univ of St Andrews focusing on statistics,
+    content: I earned my PhD degree in Univ of St Andrews focusing on statistics,
       machine learning and deep learning in population genetic inference. We use AI
       as a tool to make your daily work efficient, portable, and highly automatic
-      and accurate.  '
+      and accurate. I funded AI Genomics and would like to extend our AI framework
+      to broad range of applications in St Mary AI Institute.
     social:
     - icon: ti-facebook
       link: "#"
