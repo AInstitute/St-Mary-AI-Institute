@@ -13,7 +13,7 @@ skill:
   skill_item:
   - name: Machine Learning and Deep Learning in Genomics- AI Genomics
     percent: 90%
-  - name: Machine Learning Platform Construction for New Drug Discovery
+  - name: Machine Learning Platform Construction (i.e., for New Drug Discovery)
     percent: 60%
   - name: Biodiversity Modelling and Pattern Embedding
     percent: 80%
