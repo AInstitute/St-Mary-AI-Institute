@@ -88,7 +88,9 @@ team:
     designation: Director of AI for Ecology and Evolution
     content: 'I am an computational evolutionist. For Joining in St Mary AI, I am
       an associate professor in Durham Union. '
-    social: ''
+    social:
+    - icon: ti-twitter-alt
+      link: "#"
   - name: Maria Laurence
     image_webp: images/team/team-7.webp
     image: images/team/team-7.jpg
