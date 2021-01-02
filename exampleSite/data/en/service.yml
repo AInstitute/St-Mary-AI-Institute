@@ -23,7 +23,7 @@ service:
     content: The solution requires domain knowledge in molecular biology, immunology,
       bioinformatics and computational theory, as well as comprehensive ability in
       algorithm design, software development, biomedicine and other technical fields
-  - name: Apps Development
+  - name: Machine Learning for Ecological & Evolutionary Modelling and Inference
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
