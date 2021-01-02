@@ -2,9 +2,9 @@
 skill:
   enable: true
   title: Our technologies and skills
-  subtitle: We’ve skilled in broad range of AI application and solution for Omics,
-    Ecology and Evolution, Agriculture, Economics, and Biochemistry and beyond..
-  content: We have teams and experts in genetics, biochemistry, ecology and agriculture
+  subtitle: We’ve skilled in broad range of AI applications and solutions for Omics,
+    Ecology and Evolution, Agriculture, Economics, Biochemistry and beyond.
+  content: We have teams and experts in genetics, biochemistry, ecology, agriculture
     and beyond. As long as the problems can be solved by traditional statistical approaches,
     we can offer our state-of-the-art solutions for your problems. We have developed
     several scalable platforms and frameworks compatible for any type of data-driven
@@ -19,7 +19,7 @@ skill:
     percent: 80%
   - name: 'Pattern Embedding '
     percent: 95%
-  - name: Plant Disease and Pest Prediction and Forecast
+  - name: Plant Disease & Pest Prediction and Forecast
     percent: 75%
   - name: 'Economic Modelling and Prediction '
     percent: 50%
