@@ -11,10 +11,10 @@ skill:
     problems.
   image: images/about/company-growth.webp
   skill_item:
+  - name: AI Genomics
+    percent: 90%
   - name: Business Development
     percent: 90%
-  - name: AI Genomics
-    percent: 70%
   - name: Design
     percent: 80%
   - name: IOS Development
