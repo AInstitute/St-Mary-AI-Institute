@@ -17,18 +17,12 @@ To investigate the spatial genetic variations across these 62 regions, we conduc
 
 ![](https://xinghuq.github.io/SARS-COV-2/figure/Spatial_structure.Rmd/fig1-1-1.png =816x) Fig. 1. Spatial genetic structure of SARS-CoV-2 based on whole genome wide SNPs
 
-Below is the interactive plot of this population structure.
-
-\-0.010.000.010.020.030.040.000.050.10Global genetic structure of SARS-CoV-2 (SNPs)PC1PC2Country
-
  Readers can use their mouses to zoom in and zoom out to check the samples. Double click the legend will hidde the corresponding points from the plots.
 
 ### Global spatial genetic structure of SARS-CoV-2 represented by copy number of variations
 
 ![](https://xinghuq.github.io/SARS-COV-2/figure/Spatial_structure.Rmd/fig2-1-1.png =816x) Fig. 2. Spatial genetic structure of SARS-CoV-2 based on whole genome wide copy number of variations.
 
-Below is the interactive plot of this population structure.
+##### Data source: CNCB- 2019 Novel Coronavirus Resource (2019nCoVR).
 
-\-0.02-0.010.000.010.02-0.04-0.020.000.02Global genetic structure of SARS-CoV-2 (CNR)PC1PC2Country
-
-### Data source: CNCB- 2019 Novel Coronavirus Resource (2019nCoVR).
+##### Source:[https://xinghuq.github.io/SARS-COV-2/Spatial_structure.html](https://xinghuq.github.io/SARS-COV-2/Spatial_structure.html "https://xinghuq.github.io/SARS-COV-2/Spatial_structure.html")
