@@ -8,7 +8,7 @@ pricing:
     unit: "/dim(1*1000*1000)-Data Dimension"
     services: ''
     button:
-      label: ''
+      label: Signup
   - name: ''
     price: ''
     unit: ''
