@@ -11,7 +11,7 @@ skill:
     problems.
   image: images/about/company-growth.webp
   skill_item:
-  - name: Machine Learning and Deep Learning in Genomics- AI Genomics
+  - name: Machine Learning and Deep Learning in Genomics
     percent: 98%
   - name: 'Pattern Embedding '
     percent: 95%
