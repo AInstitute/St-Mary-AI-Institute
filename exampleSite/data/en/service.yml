@@ -10,8 +10,9 @@ service:
   - name: Drug Target and Marker Prediction
     icon: ti-layout
     content: We use machine learning algorithms to search for the most relevant genetic
-      markers and target and predict the most associated molecules for diseases. We
-      provide the high accurate prediction for your drug design.
+      markers and target and predict the most associated molecules for diseases.  We
+      provide the high accurate prediction for your drug design, examples such as
+      antibiotics screening, drug structure prediction.
   - name: Hidden Pattern Embedding Visualization
     icon: ti-blackboard
     content: We use the latest machine learning methods to learn the hidden patterns
