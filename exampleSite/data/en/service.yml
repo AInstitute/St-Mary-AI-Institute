@@ -25,8 +25,11 @@ service:
       algorithm design, software development, biomedicine and other technical fields
   - name: Machine Learning for Ecological & Evolutionary Modelling and Inference
     icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Some ecological theories are not as mature as population genetics model
+      (i.e., Wright-Fisher model).  Most of the ecological and evolutionary problems
+      are complex and subtle. We use machine learning algorithms to learn the macro(micro)-ecological
+      patterns and micro(macro)-evolutionary trajectories in order to better understand
+      evolution.
   - name: Networking
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
