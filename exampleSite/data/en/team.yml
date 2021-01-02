@@ -78,6 +78,8 @@ team:
     content: 'I am the financial manager in AInstitute. I have 5 years''s experience
       for dealing with corporate reorganization. I earned my PhD from Boston Univ. '
     social:
+    - icon: ti-facebook
+      link: "#"
     - icon: ''
       link: ''
   - name: James Newland
