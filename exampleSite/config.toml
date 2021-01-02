@@ -8,20 +8,20 @@ themesDir = "../.."
 title = "St Mary AI Institute"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 Designed by St Mary AI Institute & Developed by AI Genomics"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "about"
+name = "About"
 pre = "#"
-url = "about"
+url = "About us"
 weight = 1
 [[Languages.en.menu.main]]
-name = "services"
+name = "Services"
 pre = "#"
-url = "services"
+url = "Services"
 weight = 2
 [[Languages.en.menu.main]]
 name = "portfolio"
@@ -29,33 +29,33 @@ pre = "#"
 url = "portfolio"
 weight = 3
 [[Languages.en.menu.main]]
-name = "team"
+name = "Our team"
 pre = "#"
-url = "team"
+url = "Our team"
 weight = 4
 [[Languages.en.menu.main]]
-name = "pricing"
+name = "Pricing & Quotation"
 pre = "#"
-url = "pricing"
+url = "Pricing & Quotation"
 weight = 5
 [[Languages.en.menu.main]]
-name = "blog"
+name = "News"
 pre = "#"
-url = "blog"
+url = "News"
 weight = 6
 [[Languages.en.menu.main]]
-name = "contact"
+name = "Contact us"
 pre = "#"
-url = "contact"
+url = "Contact us"
 weight = 7
 [[Languages.en.menu.main]]
-name = "themefisher"
+name = "AI Genomics"
 pre = ""
-url = "https://themefisher.com/"
+url = "https://ai-genomics.business.site/"
 weight = 8
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 Designed by St Mary AI Institute & Developed by [AI Genomics](https://ai-genomics.business.site/)"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
@@ -63,12 +63,12 @@ weight = 2
 [[Languages.fr.menu.main]]
 name = "sur"
 pre = "#"
-url = "about"
+url = "About us"
 weight = 1
 [[Languages.fr.menu.main]]
 name = "un service"
 pre = "#"
-url = "services"
+url = "Services"
 weight = 2
 [[Languages.fr.menu.main]]
 name = "portefeuille"
@@ -78,27 +78,27 @@ weight = 3
 [[Languages.fr.menu.main]]
 name = "équipe"
 pre = "#"
-url = "team"
+url = "Our team"
 weight = 4
 [[Languages.fr.menu.main]]
 name = "tarification"
 pre = "#"
-url = "pricing"
+url = "Pricing & Quotation"
 weight = 5
 [[Languages.fr.menu.main]]
-name = "blog"
+name = "News"
 pre = "#"
-url = "blog"
+url = "News"
 weight = 6
 [[Languages.fr.menu.main]]
-name = "contact"
+name = "Contact us"
 pre = "#"
-url = "contact"
+url = "Contact us"
 weight = 7
 [[Languages.fr.menu.main]]
-name = "themefisher"
+name = "AI Genomics"
 pre = ""
-url = "https://themefisher.com/"
+url = "https://ai-genomics.business.site/"
 weight = 8
 [params]
 author = "Themefisher"
