@@ -3,9 +3,6 @@ service:
   enable: true
   title: Our Services
   service_item:
-  - name: Economy Modelling
-    icon: ti-blackboard
-    content: Machine learning algorithm for modelling economic trends and stock prediction.
   - name: Machine Learning Based Whole-Genome Scanning
     icon: ti-world
     content: 'We use deep learning to model the complex associations between genotypes
@@ -38,3 +35,6 @@ service:
     content: We use machine learning approaches to model the best growing condition
       for plants. We provide machine learning based pest monitor and forecast, plant
       disease identification and pesticide/bio-pesticide evaluation.
+  - name: Economy Modelling
+    icon: ti-blackboard
+    content: Machine learning algorithm for modelling economic trends and stock prediction.
