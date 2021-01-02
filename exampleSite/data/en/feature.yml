@@ -10,10 +10,10 @@ feature:
     icon: ti-world
     content: We develop optimized, adaptive, portable AI architecture for problem
       solution.
-  - title: Easy Customization
+  - title: Customized AI Model
     icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: Our models and frameworks are highly customized for each study case.
+      We endeavor to configure the best model for your question and data.
   - title: SEO Optimized
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
