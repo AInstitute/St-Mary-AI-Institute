@@ -1,12 +1,12 @@
 ---
-title: "How To Setup Meghna Hugo"
-date: 2018-09-12T14:51:12+06:00
-author: Mark Dinn
-image_webp: images/blog/meghna.webp
+title: Using machine learning to trace the recent transmission of SARS-Cov-2
+date: 2020-11-03T09:51:12+00:00
+author: Mark Jodan
+image_webp: "/images/haplotype_ncov2019_from_ngdc.svg"
 image: images/blog/meghna.jpg
-description : "This is meta description"
----
+description: This is meta description
 
+---
 ## Install this template by following those simple steps:
 
 ### STEP-1 : Hugo installation
