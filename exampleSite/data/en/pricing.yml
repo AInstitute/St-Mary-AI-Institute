@@ -34,15 +34,17 @@ pricing:
     price: "$199"
     unit: "/dim(1*1000*1000)-Data Dimension"
     services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
+    - 30 Data and Result Storage
+    - Machine Learning Model Construction
+    - Hyper-parameter Tuning *100 Per
+    - png/pdf/tiff Figures
+    - Methods and Script Annotation
+    - html Results
+    - 10 GB Storage
     - 24/7 Tech Support
     button:
       label: Signup
-      link: "#"
+      link: https://ai-genomics.business.site/?utm_source=gmb&utm_medium=referral
   - name: Platinum
     price: "$299"
     unit: month
