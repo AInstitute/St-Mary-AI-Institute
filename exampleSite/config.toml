@@ -17,12 +17,12 @@ weight = 1
 name = "About"
 pre = "#"
 url = "about"
-weight = 5
+weight = 1
 [[Languages.en.menu.main]]
 name = "Services"
 pre = "#"
 url = "services"
-weight = 5
+weight = 2
 [[Languages.en.menu.main]]
 name = "Portfolio"
 pre = "#"
