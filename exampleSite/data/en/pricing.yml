@@ -3,6 +3,11 @@ pricing:
   enable: true
   title: Our Services
   pricing_table:
+  - name: Decision Making
+    price: "399"
+    unit: ''
+    services: ''
+    button: ''
   - name: Primary Data Analysis
     price: "$99"
     unit: "/dim(1*1000*1000)-Data Dimension"
