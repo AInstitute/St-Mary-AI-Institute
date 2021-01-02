@@ -4,10 +4,11 @@ pricing:
   title: Our Services
   pricing_table:
   - name: Specie Identification and Diversity Pattern Learning
-    price: ''
-    unit: ''
+    price: "199"
+    unit: "/dim(1*1000*1000)-Data Dimension"
     services: ''
-    button: ''
+    button:
+      label: ''
   - name: ''
     price: ''
     unit: ''
