@@ -11,15 +11,15 @@ skill:
     problems.
   image: images/about/company-growth.webp
   skill_item:
-  - name: New Drug Discovery
-    percent: 60%
   - name: AI Genomics
     percent: 90%
-  - name: 'Economic Modelling and Prediction '
-    percent: 70%
+  - name: New Drug Discovery
+    percent: 60%
   - name: Biodiversity Modelling and Pattern Embedding
     percent: 80%
   - name: 'Pattern Embedding '
     percent: 95%
   - name: Plant Disease and Pest Prediction and Forecast
     percent: 75%
+  - name: 'Economic Modelling and Prediction '
+    percent: 50%
