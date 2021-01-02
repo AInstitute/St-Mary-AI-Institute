@@ -13,8 +13,8 @@ feature:
   - title: High Performance
     icon: ti-stats-up
     content: Our automatic machine learning model selection will choose the best and
-      the highest model architecture for your problem and design. Our model will have
-      the state-of-the-art performance with high accuracy.
+      the highest accurate architecture for your problem and design. Our model will
+      have the state-of-the-art performance with high accuracy.
   - title: Customized AI Model
     icon: ti-panel
     content: Our models and frameworks are highly customized for each study case.
