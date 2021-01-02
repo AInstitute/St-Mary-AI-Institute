@@ -11,6 +11,8 @@ skill:
     problems.
   image: images/about/company-growth.webp
   skill_item:
+  - name: Decision Making
+    percent: "40"
   - name: 'Clustering '
     percent: 60%
   - name: Machine Learning and Deep Learning in Genomics- AI Genomics
