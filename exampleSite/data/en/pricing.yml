@@ -5,7 +5,7 @@ pricing:
   pricing_table:
   - name: Primary Data Analysis
     price: "$99"
-    unit: "/dim(1*100*100)-Data Dimension"
+    unit: "/dim(1*1000*1000)-Data Dimension"
     services:
     - html Result Report
     - png figures
