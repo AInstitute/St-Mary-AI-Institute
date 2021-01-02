@@ -34,7 +34,6 @@ pricing:
     price: "$199"
     unit: "/dim(1*1000*1000)-Data Dimension"
     services:
-    - 30 Data and Result Storage
     - Machine Learning Model Construction
     - Hyper-parameter Tuning *100 Per
     - png/pdf/tiff Figures
@@ -42,6 +41,7 @@ pricing:
     - html Results
     - 10 GB Storage
     - 24/7 Tech Support
+    - 30 Day Data and Result Storage
     button:
       label: Signup
       link: https://ai-genomics.business.site/?utm_source=gmb&utm_medium=referral
