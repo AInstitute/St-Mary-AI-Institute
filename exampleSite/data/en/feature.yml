@@ -14,10 +14,9 @@ feature:
     icon: ti-panel
     content: Our models and frameworks are highly customized for each study case.
       We endeavor to configure the best model for your question and data.
-  - title: SEO Optimized
+  - title: High Performance
     icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: 'Our '
   - title: Easy Customization
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
