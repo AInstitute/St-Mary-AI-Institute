@@ -1,5 +1,5 @@
 baseURL = "https://st-mary-ai-institute.com"
-disableLanguages = ["CH", "EN"]
+disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
