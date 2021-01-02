@@ -1,6 +1,6 @@
 baseURL = "https://st-mary-ai-institute.com"
 disableLanguages = []
-disqusShortname = ""
+disqusShortname = "themefisher"
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
