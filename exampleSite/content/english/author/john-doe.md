@@ -1,5 +1,5 @@
 ---
-title: Mary Wu
+title: Kathy
 image: ''
 email: machinelearninggenomics@gmail.com
 social:
