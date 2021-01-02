@@ -30,9 +30,9 @@ pricing:
     button:
       label: Signup
       link: "#"
-  - name: Gold
+  - name: DeepGenomeScan
     price: "$199"
-    unit: month
+    unit: ''
     services:
     - 1GB Disk Space
     - 10 Email Account
