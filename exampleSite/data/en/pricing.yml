@@ -3,11 +3,6 @@ pricing:
   enable: true
   title: Our Services
   pricing_table:
-  - name: Decision Making
-    price: "399"
-    unit: ''
-    services: ''
-    button: ''
   - name: Primary Data Analysis
     price: "$99"
     unit: "/dim(1*1000*1000)-Data Dimension"
@@ -84,6 +79,13 @@ pricing:
     - 30 Day Storage
     - 10 GB Bandwidth
     - 24/7 Tech Support
+    button:
+      label: Signup
+      link: "#"
+  - name: Decision Making
+    price: "399"
+    unit: "/dim(1*1000*1000)-Data Dimension"
+    services: ''
     button:
       label: Signup
       link: "#"
