@@ -4,9 +4,10 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
-  title: Experience the high-tech AI for real probelms
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  title: Experience the High-tech AI for Your Probelms
+  content: 'We are the top-choice AI company providing AI solutions for almost any
+    problems. We own the state-of-the-art machine learning frameworks and platforms
+    with high performance and efficiency.  '
   button:
     enable: true
     label: Explore Us
