@@ -13,7 +13,7 @@ skill:
   skill_item:
   - name: Business Development
     percent: 90%
-  - name: Analysis
+  - name: AI Genomics
     percent: 70%
   - name: Design
     percent: 80%
