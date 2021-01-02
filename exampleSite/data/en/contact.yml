@@ -3,9 +3,8 @@ contact:
   enable: true
   title: Contact Us
   subtitle: Contact Details
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
-    dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content: 'If you have any inquiry about our products, services, project management,
+    quotations, as well as collaboration, please feel free to contact us.  '
   contact_list:
   - icon: ti-location-pin
     info: Lamberton place, St Andrews, Fife, United Kindom
