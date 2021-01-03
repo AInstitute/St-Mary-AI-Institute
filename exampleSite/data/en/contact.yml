@@ -18,9 +18,8 @@ contact:
     enable: true
     provider: formspree
     email: machinelearninggenomics@gmail.com
-    form_action: "machinelearninggenomics@gmail.com"
+    form_action: Submit
     name: Your Name
-    email: Your Email
     subject: Subject
     message: Message
     submit: Submit
