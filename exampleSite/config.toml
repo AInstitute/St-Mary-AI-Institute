@@ -55,7 +55,7 @@ url = "https://ai-genomics.business.site/"
 weight = 8
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 Designed by St Mary AI Institute & Developed by [AI Genomics](https://ai-genomics.business.site/)"
+copyright = "Copyright &copy; 2020 Designed by St Mary AI Institute & Developed by [AI Genomics](https://ai-genomics.business.site)"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
