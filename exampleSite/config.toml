@@ -101,9 +101,9 @@ pre = ""
 url = "https://ai-genomics.business.site/"
 weight = 8
 [params]
-author = "Jack"
-description = "Responsive Multipurpose Parallax Hugo Template"
-google_analytics_id = ""
+author = "St Mary"
+description = "St Mary web"
+google_analytics_id = "158177382"
 logo = "images/logo.png"
 post_share = true
 [params.cookies]
