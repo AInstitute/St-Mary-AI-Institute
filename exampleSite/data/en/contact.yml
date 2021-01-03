@@ -14,10 +14,10 @@ contact:
     info: 'Fax: +880-31-000-000'
   - icon: ti-email
     info: 'Email: machinelearninggenomics@gmail.com'
+  provider: formspree
+  email: machinelearninggenomics@gmail.com
   contact_form:
     enable: true
-    provider: formspree
-    email: machinelearninggenomics@gmail.com
     form_action: Submit
     name: Your Name
     subject: Subject
