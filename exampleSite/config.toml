@@ -110,7 +110,7 @@ post_share = true
 enable = true
 expire_days = 2
 [params.map]
-enable = false
+enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/geocode/json?address=1600+Amphitheatre+Parkway,+Mountain+View,+CA&key=AIzaSyC8-2RiZndGql6T9KQrmraDljiLWWlvDZs"
 map_latitude = "56.3285104"
 map_longitude = "-2.8047935"
