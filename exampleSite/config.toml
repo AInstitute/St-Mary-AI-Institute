@@ -101,8 +101,8 @@ pre = ""
 url = "https://ai-genomics.business.site/"
 weight = 8
 [params]
-author = "St Mary"
-description = "St Mary web"
+author = "St Mary AI Institute"
+description = "St Mary AI Institute Web"
 google_analytics_id = "158177382"
 logo = "images/logo.png"
 post_share = true
