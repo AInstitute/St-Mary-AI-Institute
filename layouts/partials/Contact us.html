@@ -38,9 +38,9 @@
 			{{ with .contact_form }}
 			<div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
 		        {{ if eq .Site.Data.contact.provider "formspree" }}
-                                <form id="contact-form" class="form-meghna" method="POST" action="https://formspree.io/f/mleooqjb" role="form">
+                                <form id="contact-form" class="form-meghna" action="https://formspree.io/f/mleooqjb" method="POST" role="form">
                                 {{else}}
-				<form id="contact-form" class="form-meghna" method="POST" action="sendmail.php" role="form">
+				<form id="contact-form" class="form-meghna" method="post" action="sendmail.php" role="form">
 				{{ end }}
 					<div class="form-group">
 						<input type="text" placeholder="{{ .name }}" class="form-control" name="name" id="name">
