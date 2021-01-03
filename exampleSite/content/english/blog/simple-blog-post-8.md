@@ -1,6 +1,6 @@
 ---
 title: Machine Learning For Tracing the Transmission of SARS-Cov-2
-date: 2020-12-16T09:51:12+00:00
+date: 2020-12-16T09:51:12.000+00:00
 image_webp: "/images/105-72.jpg"
 image: "/images/haplotype_ncov2019_from_ngdc.svg"
 author: Jack Zhang
@@ -15,14 +15,20 @@ To investigate the spatial genetic variations across these 62 regions, we conduc
 
 ### Global spatial genetic structure of SARS-CoV-2 represented by SNPs
 
-![](https://xinghuq.github.io/SARS-COV-2/figure/Spatial_structure.Rmd/fig1-1-1.png =816x) Fig. 1. Spatial genetic structure of SARS-CoV-2 based on whole genome wide SNPs
+![](/images/fig1-1-1.png)
 
- Readers can use their mouses to zoom in and zoom out to check the samples. Double click the legend will hidde the corresponding points from the plots.
+Fig. 1. Spatial genetic structure of SARS-CoV-2 based on whole genome wide SNPs
+
+Readers can use their mouses to zoom in and zoom out to check the samples. Double click the legend will hidde the corresponding points from the plots.
 
 ### Global spatial genetic structure of SARS-CoV-2 represented by copy number of variations
 
-![](https://xinghuq.github.io/SARS-COV-2/figure/Spatial_structure.Rmd/fig2-1-1.png =816x) Fig. 2. Spatial genetic structure of SARS-CoV-2 based on whole genome wide copy number of variations.
+![](/images/fig2-1-1.png)
 
-##### Data source: CNCB- 2019 Novel Coronavirus Resource (2019nCoVR).
+Fig. 2. Spatial genetic structure of SARS-CoV-2 based on whole genome wide copy number of variations.
 
-##### Source:[https://xinghuq.github.io/SARS-COV-2/Spatial_structure.html](https://xinghuq.github.io/SARS-COV-2/Spatial_structure.html "https://xinghuq.github.io/SARS-COV-2/Spatial_structure.html")
+#### Reference
+
+###### Data source: CNCB- 2019 Novel Coronavirus Resource (2019nCoVR).
+
+###### Source:[https://xinghuq.github.io/SARS-COV-2/Spatial_structure.html](https://xinghuq.github.io/SARS-COV-2/Spatial_structure.html "https://xinghuq.github.io/SARS-COV-2/Spatial_structure.html")
