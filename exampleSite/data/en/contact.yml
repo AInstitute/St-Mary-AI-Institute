@@ -18,7 +18,7 @@ contact:
   email: machinelearninggenomics@gmail.com
   contact_form:
     enable: true
-    form_action: #"https://formspree.io/f/{form_id}" method="post"
+    form_action: "https://formspree.io/f/{form_id}" method="post"
     name: Your Name
     subject: Subject
     message: Message
