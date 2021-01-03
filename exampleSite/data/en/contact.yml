@@ -14,7 +14,7 @@ contact:
     info: 'Fax: +880-31-000-000'
   - icon: ti-email
     info: 'Email: machinelearninggenomics@gmail.com'
-  provider: formspree
+  provider: sendmail.php
   email: machinelearninggenomics@gmail.com
   contact_form:
     enable: true
