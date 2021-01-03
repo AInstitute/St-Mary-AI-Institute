@@ -16,7 +16,9 @@ contact:
     info: 'Email: machinelearninggenomics@gmail.com'
   contact_form:
     enable: true
-    form_action: post:machinelearninggenomics@gmail.com
+    provider: formspree
+    email: machinelearninggenomics@gmail.com
+    form_action: "machinelearninggenomics@gmail.com"
     name: Your Name
     email: Your Email
     subject: Subject
