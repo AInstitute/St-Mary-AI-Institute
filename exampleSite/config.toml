@@ -101,7 +101,7 @@ pre = ""
 url = "https://ai-genomics.business.site/"
 weight = 8
 [params]
-author = "Themefisher"
+author = "Jack"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
 logo = "images/logo.png"
