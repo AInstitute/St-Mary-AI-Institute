@@ -15,10 +15,10 @@ contact:
   - icon: ti-email
     info: 'Email: machinelearninggenomics@gmail.com'
   provider: formspree
-  email: machinelearninggenomics@gmail.com
+  email: stmaryainstitute@gmail.com
   contact_form:
     enable: true
-    form_action: "https://formspree.io/f/mleooqjb"
+    form_action: https://formspree.io/f/mleooqjb
     method: POST
     name: Your Name
     subject: Subject
