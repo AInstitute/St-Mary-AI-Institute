@@ -12,9 +12,9 @@ feature:
       solving.
   - title: High Performance
     icon: ti-stats-up
-    content: Our automatic machine learning model selection will choose the best and
-      the highest accurate architecture for your problem and design. Our AI frameworks
-      have been the state-of-the-art in this area.
+    content: Our automatic machine learning framework will choose the best and the
+      highest accurate architecture/model for your problems. Our AI frameworks have
+      been the state-of-the-art in this area.
   - title: Customized AI Model
     icon: ti-panel
     content: Our models and frameworks are highly customized for each study case.
