@@ -97,7 +97,7 @@ team:
     image: images/team/team-7.jpg
     designation: Director of AI for Biochemistry
     content: I am a biochemist in medicine discovery. I lead AI for Biochemistry in
-      St Mary AI focusing on discovering target for breast cancer.
+      St Mary focusing on discovering target for breast cancer.
     social:
     - icon: ti-twitter-alt
       link: "#"
