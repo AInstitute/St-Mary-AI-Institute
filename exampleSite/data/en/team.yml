@@ -87,8 +87,8 @@ team:
     image_webp: images/team/team-6.webp
     image: images/team/team-6.jpg
     designation: Director of AI for Ecology and Evolution
-    content: 'I am an computational evolutionist. For Joining in St Mary AI, I am
-      an associate professor in Durham Union. '
+    content: 'I am an computational evolutionist. Before joining in St Mary AI, I
+      am an associate professor in Durham Union. '
     social:
     - icon: ti-twitter-alt
       link: "#"
