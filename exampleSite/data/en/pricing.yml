@@ -53,6 +53,7 @@ pricing:
     - 24/7 Tech Support
     button:
       label: Signup
+      link: 'https://ai-genomics.business.site/?utm_source=gmb&utm_medium=referral '
   - name: Deep Genome Scan
     price: "$199"
     unit: "/dim(1*1000*1000)-Data Dimension"
