@@ -96,7 +96,7 @@ pricing:
     - 30 Day Model Reconstruction
     button:
       label: Signup
-      link: "#"
+      link: 'https://ai-genomics.business.site/?utm_source=gmb&utm_medium=referral '
   - name: 'Target Modelling and Predicting '
     price: "$699"
     unit: "/dim(1*1000*1000)-Data Dimension"
