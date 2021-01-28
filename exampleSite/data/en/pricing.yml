@@ -82,7 +82,7 @@ pricing:
     - 24/7 Tech Support
     button:
       label: Signup
-      link: "#"
+      link: 'https://ai-genomics.business.site/?utm_source=gmb&utm_medium=referral '
   - name: AI Decision Making
     price: "$399"
     unit: "/dim(1*1000*1000)-Data Dimension"
