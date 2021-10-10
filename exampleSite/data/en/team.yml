@@ -3,24 +3,6 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - name: Xinghu Qin
-    image_webp: images/team/team-11-1.webp
-    image: images/team/team-11-1.jpg
-    designation: CEO/Founder
-    content: I earned my PhD degree in Univ of St Andrews focusing on statistics,
-      machine learning and deep learning in population genetic inference. We use AI
-      as a tool to make your daily work efficient, portable, and highly automatic
-      and accurate. I founded AI Genomics and would like to extend our AI framework
-      to a broad range of applications in St Mary AI Institute.
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
   - name: Erwin Linnaeus
     image_webp: images/team/team-2.webp
     image: images/team/team-2.jpg
@@ -100,4 +82,18 @@ team:
       on discovering target for breast cancer.
     social:
     - icon: ti-twitter-alt
+      link: "#"
+  - name: Xinghu Qin
+    image_webp: images/team/team-11-1.webp
+    image: images/team/team-11-1.jpg
+    designation: Consultant
+    content: Xinghu was the ex-CEO of StAInstitite, and now is still our consultant.
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+    - icon: ti-dribbble
       link: "#"
