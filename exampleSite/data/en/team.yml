@@ -41,9 +41,9 @@ team:
   - name: Nanth Ching
     image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
-    designation: AI Chief Hardware Technician
-    content: 'I am the technician for computation department. I provide the best way
-      for powering your work.  '
+    designation: Director of HPC/AI Chief Hardware Technician
+    content: 'I am the director of HPC and chief technician for computation department.
+      I provide the best way for powering your work.  '
     social:
     - icon: ti-facebook
       link: "#"
